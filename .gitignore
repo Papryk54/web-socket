@@ -1,0 +1,12 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore yarn lock file
+yarn.lock
+
+# Logs
+logs
+*.log
+
+# Env files
+.env
